@@ -42,3 +42,5 @@ next-env.d.ts
 # Files for vscode
 .vscode/*
 .vendor/*
+
+**/bpf_*
